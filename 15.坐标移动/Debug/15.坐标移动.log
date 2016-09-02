@@ -1,0 +1,11 @@
+﻿Build started 8/3/2016 3:47:53 PM.
+     1>Project "D:\yun\kb_FPGA_c_pcb_m_all\Visual Studio 2013\huaweiTest\15.坐标移动\15.坐标移动.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         F:\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\yun\kb_FPGA_c_pcb_m_all\Visual Studio 2013\huaweiTest\Debug\15.坐标移动.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\yun\kb_FPGA_c_pcb_m_all\Visual Studio 2013\huaweiTest\Debug\15.坐标移动.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\yun\kb_FPGA_c_pcb_m_all\Visual Studio 2013\huaweiTest\Debug\15.坐标移动.lib" /MACHINE:X86 "Debug\15.1.测试find_first_of.obj"
+         "Debug\15.坐标移动.obj"
+         15.坐标移动.vcxproj -> D:\yun\kb_FPGA_c_pcb_m_all\Visual Studio 2013\huaweiTest\Debug\15.坐标移动.exe
+     1>Done Building Project "D:\yun\kb_FPGA_c_pcb_m_all\Visual Studio 2013\huaweiTest\15.坐标移动\15.坐标移动.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.27
